@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Dheepthi.</h1>
 
-- 🏙️ Charlotte, NC → Chapel Hill, NC → ?
+- 🏙️ I'm from Charlotte, NC → Chapel Hill, NC → ?
 - 🏫 I'm a high school senior at the North Carolina School of Science and Mathematics.
 
 ## 👩🏾‍💻 I've worked with:
 - **Backend:** Python, C, Java, C++
-- **Frontend:** HTML, CSS
+- **Frontend:** JavaScript, HTML, CSS
 - **Tools:** Bash, Linux
 
 <!--
