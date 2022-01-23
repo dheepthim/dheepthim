@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Dheepthi.</h1>
+
+- 🏙️ Charlotte, NC → Chapel Hill, NC → ?
+- 🏫 I'm a senior at the North Carolina School of Science and Mathematics.
 
 <!--
 **dheepthim/dheepthim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
