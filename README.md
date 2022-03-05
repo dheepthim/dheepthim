@@ -1,24 +1,12 @@
-<h1 align="center">Hi there 👋 I'm Dheepthi.</h1>
+<h1 align="center">Hi! I'm Dheepthi.</h1>
 
 - 🏙️ I'm from Charlotte, NC → Chapel Hill, NC → ?
-- 🏫 I'm a high school senior at the North Carolina School of Science and Mathematics.
+- 👩🏾‍🎓 I'm a high school senior at the North Carolina School of Science and Mathematics.
+- 🔬 I'm also a researcher at the University of Pennsylvania Perelman School of Medicine.
+- 🤯 My interests range from cell biology and oncology to artificial intelligence and data science.
+- 🔮 I've presented my work at the Regeneron International Science and Engineering Fair ([ISEF '21](https://abstracts.societyforscience.org/Home/FullAbstract?ProjectId=20109)), the National Junior Science and Humanities Symposium ([JSHS '21](http://jshs.org/wp-content/uploads/2021/06/2021-NJSHS-Abstract-Catalog.pdf)), and the American Association for the Advancement of Science Annual Meeting ([AAAS '22](https://aaas.confex.com/aaas/2022/meetingapp.cgi/Paper/30408), [AAAS '21](https://aaas.confex.com/aaas/2021/meetingapp.cgi/Paper/29091)).
 
 ## 👩🏾‍💻 I've worked with:
 - **Backend:** Python, C, Java, C++
 - **Frontend:** JavaScript, HTML, CSS
 - **Tools:** Bash, Linux
-
-<!--
-**dheepthim/dheepthim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
