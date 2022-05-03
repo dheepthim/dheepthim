@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Dheepthi.</h1>
 
-- 🏙️ I'm from Charlotte, NC → Chapel Hill, NC → ?
+- 🏙️ I'm from Charlotte, NC → Cambridge, MA
 - 👩🏾‍🎓 I'm a high school senior at the North Carolina School of Science and Mathematics.
 - 🔬 I'm also a researcher at the University of Pennsylvania Perelman School of Medicine.
 - 🤯 My interests range from oncology and cell biology to artificial intelligence and data science.
