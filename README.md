@@ -1,14 +1,9 @@
 <h1 align="center">Hi! I'm Dheepthi.</h1>
 
-- 🏙️ I'm from Charlotte, NC → Chapel Hill, NC
-- 👩🏾‍🎓 I'm a high school senior at the North Carolina School of Science and Mathematics.
-- 🔬 I'm also a researcher at the University of Pennsylvania Perelman School of Medicine.
-- 🤯 My interests range from oncology and cell biology to artificial intelligence and data science.
-
 ## 👩🏾‍💻 I've worked with:
-- **Languages:** Python, C, Java, C++
+- **Languages:** Python, C, Java, C++, R
 - **Frontend:** JavaScript, HTML, CSS
-- **Tools:** Bash, Linux
+- **Tools and Software:** PyMOL, Wolfram Mathematica, STELLA, Bash, Linux
 
 ## 🔮 I've presented at:
 - The Regeneron International Science and Engineering Fair ([ISEF '22](https://abstracts.societyforscience.org/Home/FullAbstract?ProjectId=22794), [ISEF '21](https://abstracts.societyforscience.org/Home/FullAbstract?ProjectId=20109))
