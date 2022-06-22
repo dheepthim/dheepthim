@@ -1,5 +1,7 @@
 <h1 align="center">Hi! I'm Dheepthi.</h1>
 
+- 👩🏾‍🎓 I'm a undergraduate freshman at the Massachusetts Institute of Technology.
+
 ## 👩🏾‍💻 I've worked with:
 - **Languages:** Python, C, Java, C++, R
 - **Frontend:** JavaScript, HTML, CSS
